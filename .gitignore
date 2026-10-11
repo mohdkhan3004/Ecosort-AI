@@ -1,0 +1,23 @@
+# Environment & secrets — never commit
+.env
+
+# Trained model binary
+model.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
